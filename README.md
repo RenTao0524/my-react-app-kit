@@ -44,3 +44,14 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+# react-router-domv6
+[react-router-domv6地址](https://reactrouter.com/)
+
+# react-app-rewired
+重写构建配置[react-app-rewired](https://github.com/timarney/react-app-rewired#readme)
+
+# customize-cra
+[customize-cra](https://github.com/arackaf/customize-cra)
+
+# dotenv
